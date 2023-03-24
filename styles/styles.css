@@ -168,8 +168,7 @@ ol {
   color: #fb6d3a;
   margin-bottom: 10px;
 }
-
-.education-speciality {
+tech-skills .education-speciality {
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
@@ -189,12 +188,14 @@ ol {
   margin-bottom: 30px;
 }
 
-.contacts,
 .tech-skills {
   margin-left: 40px;
+  margin-top: 120px;
 }
 .contacts {
-  margin-bottom: 50px;
+  margin-top: 80px;
+
+  margin-left: 40px;
 }
 .contacts p {
   margin-bottom: 5px;
@@ -246,7 +247,7 @@ ol {
 .soft-skills {
   margin-left: 40px;
 
-  margin-top: 50px;
+  margin-top: 120px;
 }
 
 .soft-skills-list {
