@@ -58,6 +58,16 @@ ol {
   color: #595959;
   width: 400px;
 }
+
+.section-title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10px;
+  position: relative;
+  display: inline-block;
+}
+
 /* project styles */
 .projects {
   margin-bottom: 50px;
